@@ -1,0 +1,72 @@
+{
+  "numZalikovka": 2,
+  "idStudent": 2352,
+  "NameStudent": "Poroshenko Olexiy",
+  "course": [
+    {
+      "courseYear": 1,
+      "subject": [
+        {
+          "nameSubject": "Ukrainian",
+          "gradeSubject": 4,
+          "isExam": false
+        },
+        {
+          "nameSubject": "Ukrainian",
+          "gradeSubject": 5,
+          "isExam": false
+        },
+        {
+          "nameSubject": "Programming",
+          "gradeSubject": 4,
+          "isExam": true
+        },
+        {
+          "nameSubject": "English",
+          "gradeSubject": 4,
+          "isExam": false
+        },
+        {
+          "nameSubject": "Ukrainian",
+          "gradeSubject": 3,
+          "isExam": false
+        }
+      ]
+    },
+    {
+      "courseYear": 2,
+      "subject": [
+        {
+          "nameSubject": "English",
+          "gradeSubject": 4,
+          "isExam": false
+        },
+        {
+          "nameSubject": "Ukrainian",
+          "gradeSubject": 5,
+          "isExam": false
+        },
+        {
+          "nameSubject": "Physics",
+          "gradeSubject": 3,
+          "isExam": true
+        },
+        {
+          "nameSubject": "Programming",
+          "gradeSubject": 3,
+          "isExam": true
+        },
+        {
+          "nameSubject": "English",
+          "gradeSubject": 4,
+          "isExam": true
+        },
+        {
+          "nameSubject": "Ukrainian",
+          "gradeSubject": 5,
+          "isExam": true
+        }
+      ]
+    }
+  ]
+}

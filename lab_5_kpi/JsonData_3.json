@@ -1,0 +1,52 @@
+{
+  "numZalikovka": 3,
+  "idStudent": 23523,
+  "NameStudent": "Musk Anatoliy",
+  "course": [
+    {
+      "courseYear": 1,
+      "subject": [
+        {
+          "nameSubject": "Programming",
+          "gradeSubject": 5,
+          "isExam": false
+        },
+        {
+          "nameSubject": "Programming",
+          "gradeSubject": 5,
+          "isExam": true
+        },
+        {
+          "nameSubject": "English",
+          "gradeSubject": 5,
+          "isExam": false
+        }
+      ]
+    },
+    {
+      "courseYear": 2,
+      "subject": [
+        {
+          "nameSubject": "English",
+          "gradeSubject": 4,
+          "isExam": false
+        },
+        {
+          "nameSubject": "Ukrainian",
+          "gradeSubject": 5,
+          "isExam": false
+        },
+        {
+          "nameSubject": "Physics",
+          "gradeSubject": 5,
+          "isExam": true
+        },
+        {
+          "nameSubject": "Programming",
+          "gradeSubject": 5,
+          "isExam": true
+        }
+      ]
+    }
+  ]
+}

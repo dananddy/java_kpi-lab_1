@@ -1,0 +1,42 @@
+{
+  "numZalikovka": 1,
+  "idStudent": 559,
+  "NameStudent": "Zelenskiy Mukhaylo",
+  "course": [
+    {
+      "courseYear": 1,
+      "subject": [
+        {
+          "nameSubject": "English",
+          "gradeSubject": 5,
+          "isExam": true
+        },
+        {
+          "nameSubject": "Ukrainian",
+          "gradeSubject": 5,
+          "isExam": false
+        },
+        {
+          "nameSubject": "Physics",
+          "gradeSubject": 5,
+          "isExam": false
+        },
+        {
+          "nameSubject": "Programming",
+          "gradeSubject": 5,
+          "isExam": true
+        },
+        {
+          "nameSubject": "English",
+          "gradeSubject": 5,
+          "isExam": true
+        },
+        {
+          "nameSubject": "Ukrainian",
+          "gradeSubject": 5,
+          "isExam": true
+        }
+      ]
+    }
+  ]
+}
